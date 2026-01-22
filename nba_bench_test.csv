@@ -1,45 +1,45 @@
 Player name,PlayerTeam,Team1,Team2,Team1score,Team2score,GmSc,GameOfSeries
-Obi Toppin,IND,Indiana Pacers,Oklahoma City Thunder,111,110,12.2,Unknown
-T.J. McConnell,IND,Indiana Pacers,Oklahoma City Thunder,111,110,7.1,Unknown
-Bennedict Mathurin,IND,Indiana Pacers,Oklahoma City Thunder,111,110,3.9,Unknown
-Ben Sheppard,IND,Indiana Pacers,Oklahoma City Thunder,111,110,1.4,Unknown
-Thomas Bryant,IND,Indiana Pacers,Oklahoma City Thunder,111,110,3.2,Unknown
-Isaiah Jackson,IND,Indiana Pacers,Oklahoma City Thunder,111,110,,Unknown
-Jarace Walker,IND,Indiana Pacers,Oklahoma City Thunder,111,110,,Unknown
-Alex Caruso,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,11.6,Unknown
-Isaiah Hartenstein,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,10.4,Unknown
-Isaiah Joe,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,3.7,Unknown
-Aaron Wiggins,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.6,Unknown
-Ajay Mitchell,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.0,Unknown
-Kenrich Williams,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.0,Unknown
-Bennedict Mathurin,IND,Indiana Pacers,Oklahoma City Thunder,107,123,7.6,Unknown
-Obi Toppin,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.7,Unknown
-T.J. McConnell,IND,Indiana Pacers,Oklahoma City Thunder,107,123,14.4,Unknown
-Ben Sheppard,IND,Indiana Pacers,Oklahoma City Thunder,107,123,2.6,Unknown
-Thomas Bryant,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.1,Unknown
-Johnny Furphy,IND,Indiana Pacers,Oklahoma City Thunder,107,123,-0.1,Unknown
-James Johnson,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.9,Unknown
-Isaiah Jackson,IND,Indiana Pacers,Oklahoma City Thunder,107,123,,Unknown
-Jarace Walker,IND,Indiana Pacers,Oklahoma City Thunder,107,123,,Unknown
-Alex Caruso,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,13.5,Unknown
-Isaiah Hartenstein,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,8.0,Unknown
-Aaron Wiggins,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,14.2,Unknown
-Kenrich Williams,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,2.4,Unknown
-Isaiah Joe,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,-0.4,Unknown
-Ajay Mitchell,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,3.0,Unknown
-Jaylin Williams,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,2.0,Unknown
-Ousmane Dieng,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,0.0,Unknown
-Dillon Jones,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,0.0,Unknown
-Alex Caruso,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,9.8,Unknown
-Isaiah Hartenstein,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,1.8,Unknown
-Aaron Wiggins,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,-1.2,Unknown
-Isaiah Joe,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,4.6,Unknown
-Kenrich Williams,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,-0.7,Unknown
-Jaylin Williams,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,0.0,Unknown
-Obi Toppin,IND,Oklahoma City Thunder,Indiana Pacers,107,116,6.1,Unknown
-Bennedict Mathurin,IND,Oklahoma City Thunder,Indiana Pacers,107,116,23.8,Unknown
-Ben Sheppard,IND,Oklahoma City Thunder,Indiana Pacers,107,116,3.9,Unknown
-T.J. McConnell,IND,Oklahoma City Thunder,Indiana Pacers,107,116,12.4,Unknown
-Thomas Bryant,IND,Oklahoma City Thunder,Indiana Pacers,107,116,-0.8,Unknown
-Isaiah Jackson,IND,Oklahoma City Thunder,Indiana Pacers,107,116,,Unknown
-Jarace Walker,IND,Oklahoma City Thunder,Indiana Pacers,107,116,,Unknown
+Obi Toppin,IND,Indiana Pacers,Oklahoma City Thunder,111,110,12.2,Game 1
+T.J. McConnell,IND,Indiana Pacers,Oklahoma City Thunder,111,110,7.1,Game 1
+Bennedict Mathurin,IND,Indiana Pacers,Oklahoma City Thunder,111,110,3.9,Game 1
+Ben Sheppard,IND,Indiana Pacers,Oklahoma City Thunder,111,110,1.4,Game 1
+Thomas Bryant,IND,Indiana Pacers,Oklahoma City Thunder,111,110,3.2,Game 1
+Isaiah Jackson,IND,Indiana Pacers,Oklahoma City Thunder,111,110,,Game 1
+Jarace Walker,IND,Indiana Pacers,Oklahoma City Thunder,111,110,,Game 1
+Alex Caruso,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,11.6,Game 1
+Isaiah Hartenstein,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,10.4,Game 1
+Isaiah Joe,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,3.7,Game 1
+Aaron Wiggins,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.6,Game 1
+Ajay Mitchell,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.0,Game 1
+Kenrich Williams,OKC,Indiana Pacers,Oklahoma City Thunder,111,110,0.0,Game 1
+Bennedict Mathurin,IND,Indiana Pacers,Oklahoma City Thunder,107,123,7.6,Game 2
+Obi Toppin,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.7,Game 2
+T.J. McConnell,IND,Indiana Pacers,Oklahoma City Thunder,107,123,14.4,Game 2
+Ben Sheppard,IND,Indiana Pacers,Oklahoma City Thunder,107,123,2.6,Game 2
+Thomas Bryant,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.1,Game 2
+Johnny Furphy,IND,Indiana Pacers,Oklahoma City Thunder,107,123,-0.1,Game 2
+James Johnson,IND,Indiana Pacers,Oklahoma City Thunder,107,123,0.9,Game 2
+Isaiah Jackson,IND,Indiana Pacers,Oklahoma City Thunder,107,123,,Game 2
+Jarace Walker,IND,Indiana Pacers,Oklahoma City Thunder,107,123,,Game 2
+Alex Caruso,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,13.5,Game 2
+Isaiah Hartenstein,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,8.0,Game 2
+Aaron Wiggins,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,14.2,Game 2
+Kenrich Williams,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,2.4,Game 2
+Isaiah Joe,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,-0.4,Game 2
+Ajay Mitchell,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,3.0,Game 2
+Jaylin Williams,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,2.0,Game 2
+Ousmane Dieng,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,0.0,Game 2
+Dillon Jones,OKC,Indiana Pacers,Oklahoma City Thunder,107,123,0.0,Game 2
+Alex Caruso,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,9.8,Game 3
+Isaiah Hartenstein,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,1.8,Game 3
+Aaron Wiggins,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,-1.2,Game 3
+Isaiah Joe,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,4.6,Game 3
+Kenrich Williams,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,-0.7,Game 3
+Jaylin Williams,OKC,Oklahoma City Thunder,Indiana Pacers,107,116,0.0,Game 3
+Obi Toppin,IND,Oklahoma City Thunder,Indiana Pacers,107,116,6.1,Game 3
+Bennedict Mathurin,IND,Oklahoma City Thunder,Indiana Pacers,107,116,23.8,Game 3
+Ben Sheppard,IND,Oklahoma City Thunder,Indiana Pacers,107,116,3.9,Game 3
+T.J. McConnell,IND,Oklahoma City Thunder,Indiana Pacers,107,116,12.4,Game 3
+Thomas Bryant,IND,Oklahoma City Thunder,Indiana Pacers,107,116,-0.8,Game 3
+Isaiah Jackson,IND,Oklahoma City Thunder,Indiana Pacers,107,116,,Game 3
+Jarace Walker,IND,Oklahoma City Thunder,Indiana Pacers,107,116,,Game 3

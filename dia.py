@@ -1,37 +1,33 @@
 from lxml import html
 import requests
 
-# Test with one game
 test_url = "https://www.basketball-reference.com/boxscores/202506050OKC.html"
 
 result = requests.get(test_url)
 tree = html.fromstring(result.content)
 
-print("=== Looking for scorebox ===")
-scorebox = tree.xpath('//div[@class="scorebox"]')
-print(f"Found {len(scorebox)} scorebox divs")
+print("=== Looking for series/game info ===")
+scorebox_meta = tree.xpath('//div[@class="scorebox_meta"]')
+print(f"Found {len(scorebox_meta)} scorebox_meta divs")
 
-# Try alternative selectors
-print("\n=== Trying alternative team selectors ===")
-teams1 = tree.xpath('//div[@class="scorebox"]//strong/a/text()')
-print(f"Teams (strong/a): {teams1}")
+if scorebox_meta:
+    # Get all text
+    all_text = scorebox_meta[0].xpath('.//text()')
+    print("\nAll text in scorebox_meta:")
+    for i, text in enumerate(all_text):
+        if text.strip():
+            print(f"  [{i}] {text.strip()}")
+    
+    # Try different selectors
+    divs = scorebox_meta[0].xpath('./div')
+    print(f"\nFound {len(divs)} divs inside scorebox_meta")
+    for i, div in enumerate(divs):
+        print(f"  Div {i}: {div.text_content().strip()}")
 
-teams2 = tree.xpath('//div[@class="scorebox"]//div//a/text()')
-print(f"Teams (div//a): {teams2[:10]}")  # First 10 to avoid clutter
+# Also check for h1 or title
+print("\n=== Looking for page title/header ===")
+h1 = tree.xpath('//h1/text()')
+print(f"H1: {h1}")
 
-print("\n=== Looking for scores ===")
-scores1 = tree.xpath('//div[@class="scorebox"]//div[@class="score"]/text()')
-print(f"Scores (class='score'): {scores1}")
-
-scores2 = tree.xpath('//div[@class="scorebox"]//div[contains(@class, "score")]/text()')
-print(f"Scores (contains 'score'): {scores2}")
-
-print("\n=== Looking for any divs with numbers ===")
-all_divs = tree.xpath('//div[@class="scorebox"]//div/text()')
-print(f"All text in scorebox divs: {[t.strip() for t in all_divs if t.strip()][:20]}")
-
-print("\n=== Looking for box score tables ===")
-tables = tree.xpath('//table[contains(@id, "box-")]')
-print(f"Found {len(tables)} box score tables")
-for table in tables:
-    print(f"  Table ID: {table.get('id')}")
+title_text = tree.xpath('//div[@class="scorebox"]//h1/text()')
+print(f"Title in scorebox: {title_text}")
